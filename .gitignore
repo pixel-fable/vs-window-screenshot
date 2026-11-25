@@ -14,6 +14,6 @@
 *.ncb
 *.sdf
 
-# VS Code / IDE
-.vscode/
+# VS Code / IDE —— 只忽略个人覆盖，保留共享的工作区配置
+.vscode/settings.json.local
 .idea/

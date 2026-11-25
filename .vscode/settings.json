@@ -1,0 +1,6 @@
+{
+  // 本仓库是纯文档/技能包，没有可编译的代码。
+  // 打开时信任本文件夹即可，不需要配置编译任务。
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true
+}
