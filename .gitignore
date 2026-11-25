@@ -1,0 +1,19 @@
+# 截图产物
+*.png
+*.jpg
+*.jpeg
+*.bmp
+
+# 编译与打包产物
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.zip
+*.suo
+*.ncb
+*.sdf
+
+# VS Code / IDE
+.vscode/
+.idea/
