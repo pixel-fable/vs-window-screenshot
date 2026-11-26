@@ -1,6 +1,26 @@
-__pycache__/
-*.pyc
+# 截图产物
 *.png
+*.jpg
+*.jpeg
+*.bmp
 *.svg
 *.html
+
+# 编译与打包产物
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.zip
+*.suo
+*.ncb
+*.sdf
 *.log
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code / IDE —— 只忽略个人覆盖，保留共享的工作区配置
+.vscode/settings.json.local
+.idea/

@@ -1,0 +1,10 @@
+{
+  "extensions": {
+    "recommendations": [
+      "ms-vscode.cpptools"
+    ]
+  },
+  "unwantedRecommendations": [
+    "ms-vscode.cpptools-extension-pack"
+  ]
+}
